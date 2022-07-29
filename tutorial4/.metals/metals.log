@@ -1,0 +1,524 @@
+2022.07.28 23:54:11 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\DELL\Desktop\tutorial4\.metals\lsp.trace.json or C:\Users\DELL\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.28 23:54:12 INFO  logging to file C:\Users\DELL\Desktop\tutorial4\.metals\metals.log
+2022.07.28 23:54:12 INFO  Started: Metals version 0.11.7 in workspace 'C:\Users\DELL\Desktop\tutorial4' for client Visual Studio Code 1.65.2.
+2022.07.28 23:54:15 INFO  time: initialize in 2.58s
+2022.07.28 23:54:15 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.28 23:54:15 WARN  Build server is not auto-connectable.
+2022.07.28 23:54:15 WARN  no build tool detected in workspace 'C:\Users\DELL\Desktop\tutorial4'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.28 23:54:18 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q2.scala
+2022.07.28 23:54:21 INFO  no build target found for C:\Users\DELL\Desktop\tutorial4\Q2.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.07.28 23:54:23 INFO  time: code lens generation in 5.84s
+2022.07.28 23:54:23 INFO  time: code lens generation in 5.84s
+2022.07.28 23:56:21 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q2.scala
+2022.07.28 23:57:09 WARN  no build target for: G:\My Drive\UNIVERSITY\second year\functional prog\tutorial4\Q1.scala
+2022.07.29 00:11:11 WARN  no build target for: C:\Users\DELL\Downloads\Q2.scala
+2022.07.29 00:19:36 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q2.scala
+2022.07.29 00:20:01 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q2.scala
+2022.07.29 00:20:46 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q2.scala
+Exception in thread "pool-3-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:196)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022.07.29 00:21:17 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q2.scala
+2022.07.29 00:21:46 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q2.scala
+2022.07.29 00:22:19 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q2.scala
+2022.07.29 00:22:37 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q2.scala
+2022.07.29 00:22:37 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q2.scala
+2022.07.29 00:23:00 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q2.scala
+2022.07.29 00:23:30 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q2.scala
+2022.07.29 00:24:12 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q2.scala
+2022.07.29 00:26:31 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q2.scala
+2022.07.29 00:29:32 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q2.scala
+2022.07.29 00:29:53 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q2.scala
+2022.07.29 00:34:01 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q2.scala
+2022.07.29 00:34:16 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q2.scala
+2022.07.29 00:34:20 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q2.scala
+2022.07.29 00:34:25 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q2.scala
+2022.07.29 00:37:26 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q2.scala
+2022.07.29 00:37:40 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q2.scala
+2022.07.29 00:38:35 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q2.scala
+2022.07.29 00:39:22 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q2.scala
+2022.07.29 00:39:35 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q2.scala
+2022.07.29 00:40:56 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q2.scala
+2022.07.29 00:41:18 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q2.scala
+2022.07.29 00:41:47 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q2.scala
+2022.07.29 00:42:26 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q3.scala
+2022.07.29 00:42:40 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q3.scala
+2022.07.29 01:15:26 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q3.scala
+2022.07.29 01:58:45 INFO  shutting down Metals
+2022.07.29 10:39:21 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\DELL\Desktop\tutorial4\.metals\lsp.trace.json or C:\Users\DELL\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.29 10:39:23 INFO  logging to file C:\Users\DELL\Desktop\tutorial4\.metals\metals.log
+2022.07.29 10:39:23 INFO  Started: Metals version 0.11.7 in workspace 'C:\Users\DELL\Desktop\tutorial4' for client Visual Studio Code 1.65.2.
+2022.07.29 10:39:26 INFO  time: initialize in 2.65s
+2022.07.29 10:39:26 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.29 10:39:26 WARN  Build server is not auto-connectable.
+2022.07.29 10:39:26 WARN  no build tool detected in workspace 'C:\Users\DELL\Desktop\tutorial4'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.29 10:39:28 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q3.scala
+2022.07.29 10:39:31 INFO  no build target found for C:\Users\DELL\Desktop\tutorial4\Q3.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.07.29 10:39:34 INFO  time: code lens generation in 5.12s
+2022.07.29 10:39:34 INFO  time: code lens generation in 5.12s
+2022.07.29 11:46:37 WARN  no build target for: G:\My Drive\UNIVERSITY\second year\functional prog\tutorial4\Q1.scala
+Jul 29, 2022 11:46:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22
+2022.07.29 11:46:39 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q2.scala
+Jul 29, 2022 11:46:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27
+2022.07.29 11:47:03 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q3.scala
+Jul 29, 2022 11:47:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 62
+Jul 29, 2022 11:53:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:119)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 5 is not a valid line number, allowed [0..4]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.lineLength$1(Position.scala:57)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:60)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:77)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:76)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:66)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:65)
+	at scala.collection.immutable.List.collect(List.scala:275)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:65)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1652)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1651)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	... 13 more
+
+2022.07.29 11:54:25 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q3.scala
+Jul 29, 2022 11:54:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.IllegalArgumentException: 6 is not a valid line number, allowed [0..4]
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: 6 is not a valid line number, allowed [0..4]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.IllegalArgumentException: 6 is not a valid line number, allowed [0..4]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:77)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:76)
+	at scala.meta.internal.metals.codeactions.InsertInferredType.$anonfun$contribute$1(InsertInferredType.scala:66)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+Jul 29, 2022 11:55:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:119)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 6 is not a valid line number, allowed [0..4]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:77)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:76)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:66)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:65)
+	at scala.collection.immutable.List.collect(List.scala:275)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:65)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1652)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1651)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	... 13 more
+
+Jul 29, 2022 11:57:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: file:///C:/Users/DELL/Desktop/tutorial4/Q3.scala:7: error: file:///C:/Users/DELL/Desktop/tutorial4/Q3.scala:7: error: expected identifier; obtained rbrace
+}
+^
+}
+^
+java.util.concurrent.CompletionException: file:///C:/Users/DELL/Desktop/tutorial4/Q3.scala:7: error: file:///C:/Users/DELL/Desktop/tutorial4/Q3.scala:7: error: expected identifier; obtained rbrace
+}
+^
+}
+^
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: file:///C:/Users/DELL/Desktop/tutorial4/Q3.scala:7: error: file:///C:/Users/DELL/Desktop/tutorial4/Q3.scala:7: error: expected identifier; obtained rbrace
+}
+^
+}
+^
+	at scala.meta.internal.mtags.ScalaToplevelMtags.fail(ScalaToplevelMtags.scala:358)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.newIdentifier(ScalaToplevelMtags.scala:343)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:245)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:118)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:50)
+	at scala.meta.internal.mtags.MtagsIndexer.index(MtagsIndexer.scala:19)
+	at scala.meta.internal.mtags.MtagsIndexer.index$(MtagsIndexer.scala:18)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.index(ScalaToplevelMtags.scala:40)
+	at scala.meta.internal.mtags.Mtags$.allToplevels(Mtags.scala:96)
+	at scala.meta.internal.metals.DefinitionProvider.fromMtags(DefinitionProvider.scala:269)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$3(DefinitionProvider.scala:202)
+	at scala.Option.orElse(Option.scala:477)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$1(DefinitionProvider.scala:202)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:197)
+	at scala.meta.internal.metals.DocumentHighlightProvider.$anonfun$documentHighlight$1(DocumentHighlightProvider.scala:33)
+	at scala.collection.immutable.List.map(List.scala:246)
+	at scala.meta.internal.metals.DocumentHighlightProvider.documentHighlight(DocumentHighlightProvider.scala:29)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentHighlights$1(MetalsLanguageServer.scala:1480)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2022.07.29 11:58:14 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q3.scala
+2022.07.29 12:01:48 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q3.scala
+2022.07.29 12:01:48 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q3.scala
+2022.07.29 12:02:21 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q3.scala
+2022.07.29 12:02:57 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q3.scala
+2022.07.29 12:03:09 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q3.scala
+2022.07.29 12:05:11 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q4.scala
+2022.07.29 12:08:46 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 12:15:19 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q4.scala
+Jul 29, 2022 12:23:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.IllegalArgumentException: 11 is not a valid line number, allowed [0..7]
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: 11 is not a valid line number, allowed [0..7]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.IllegalArgumentException: 11 is not a valid line number, allowed [0..7]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:77)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:76)
+	at scala.meta.internal.metals.codeactions.InsertInferredType.$anonfun$contribute$1(InsertInferredType.scala:66)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+Jul 29, 2022 12:23:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:119)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 11 is not a valid line number, allowed [0..7]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:77)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:76)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:66)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:65)
+	at scala.collection.immutable.List.collect(List.scala:275)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:65)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1652)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1651)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	... 13 more
+
+Jul 29, 2022 12:23:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:119)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 11 is not a valid line number, allowed [0..7]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:77)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:76)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:66)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:65)
+	at scala.collection.immutable.List.collect(List.scala:275)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:65)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1652)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1651)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	... 13 more
+
+2022.07.29 12:23:47 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q4.scala
+2022.07.29 12:24:15 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q4.scala
+2022.07.29 12:24:25 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q4.scala
+2022.07.29 12:24:37 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q4.scala
+2022.07.29 12:24:49 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q4.scala
+2022.07.29 12:25:08 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q4.scala
+2022.07.29 12:25:11 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q4.scala
+2022.07.29 12:25:47 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 12:53:51 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 12:58:25 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 12:59:45 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:04:49 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:04:53 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:05:07 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:05:20 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:05:33 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:06:14 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:06:33 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:08:01 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:12:28 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:13:13 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+Jul 29, 2022 1:13:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:119)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 18 is not a valid line number, allowed [0..17]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.lineLength$1(Position.scala:57)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:60)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:77)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:76)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:66)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:65)
+	at scala.collection.immutable.List.collect(List.scala:275)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:65)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1652)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1651)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	... 13 more
+
+Jul 29, 2022 1:13:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:119)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 18 is not a valid line number, allowed [0..17]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.lineLength$1(Position.scala:57)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:60)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:77)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:76)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:66)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:65)
+	at scala.collection.immutable.List.collect(List.scala:275)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:65)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1652)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1651)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	... 13 more
+
+2022.07.29 13:13:51 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:14:01 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:15:46 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:16:59 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:17:54 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:19:01 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:19:45 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:20:03 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:20:20 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:20:20 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:21:14 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:21:23 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:21:34 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:26:54 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:27:12 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:27:38 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:28:42 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:28:59 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:29:23 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:29:38 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:34:39 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:34:47 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:37:10 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:37:20 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:37:33 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:39:19 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:39:34 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:39:45 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:40:30 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:40:49 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:40:54 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:44:05 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:44:16 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:44:51 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:45:23 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:45:27 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:45:40 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.29 13:56:46 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.30 00:21:52 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\DELL\Desktop\tutorial4\.metals\lsp.trace.json or C:\Users\DELL\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.30 00:21:53 INFO  logging to file C:\Users\DELL\Desktop\tutorial4\.metals\metals.log
+2022.07.30 00:21:53 INFO  Started: Metals version 0.11.7 in workspace 'C:\Users\DELL\Desktop\tutorial4' for client Visual Studio Code 1.65.2.
+2022.07.30 00:21:55 INFO  time: initialize in 1.65s
+2022.07.30 00:21:59 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.30 00:21:59 WARN  Build server is not auto-connectable.
+2022.07.30 00:21:59 WARN  no build tool detected in workspace 'C:\Users\DELL\Desktop\tutorial4'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.30 00:22:01 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.30 00:22:07 INFO  no build target found for C:\Users\DELL\Desktop\tutorial4\Q5.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.07.30 00:22:11 INFO  time: code lens generation in 9.62s
+2022.07.30 00:22:11 INFO  time: code lens generation in 9.62s
+2022.07.30 00:33:10 INFO  shutting down Metals
+2022.07.30 01:02:38 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\DELL\Desktop\tutorial4\.metals\lsp.trace.json or C:\Users\DELL\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.30 01:02:39 INFO  logging to file C:\Users\DELL\Desktop\tutorial4\.metals\metals.log
+2022.07.30 01:02:39 INFO  Started: Metals version 0.11.7 in workspace 'C:\Users\DELL\Desktop\tutorial4' for client Visual Studio Code 1.65.2.
+2022.07.30 01:02:41 INFO  time: initialize in 1.93s
+2022.07.30 01:02:42 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.30 01:02:42 WARN  Build server is not auto-connectable.
+2022.07.30 01:02:42 WARN  no build tool detected in workspace 'C:\Users\DELL\Desktop\tutorial4'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.30 01:02:44 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q5.scala
+2022.07.30 01:02:48 INFO  no build target found for C:\Users\DELL\Desktop\tutorial4\Q5.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.07.30 01:02:53 INFO  time: code lens generation in 9.21s
+2022.07.30 01:02:53 INFO  time: code lens generation in 9.22s
+2022.07.30 01:02:53 INFO  time: code lens generation in 9.21s
+2022.07.30 01:02:59 WARN  no build target for: G:\My Drive\UNIVERSITY\second year\functional prog\tutorial4\Q1.scala
+2022.07.30 01:06:55 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q1.scala
+2022.07.30 01:07:18 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q2.scala
+2022.07.30 01:07:29 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q3.scala
+2022.07.30 01:08:40 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q3.scala
+2022.07.30 01:08:43 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q3.scala
+2022.07.30 01:09:06 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q3.scala
+2022.07.30 01:09:25 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q3.scala
+2022.07.30 01:09:38 WARN  no build target for: C:\Users\DELL\Desktop\tutorial4\Q4.scala
+2022.07.30 01:12:07 INFO  shutting down Metals
